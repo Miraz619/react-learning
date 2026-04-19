@@ -1,0 +1,12 @@
+
+.nav a{
+    margin-left: 10px;
+
+}
+
+
+nav a.active{
+
+    color: red;
+}
+

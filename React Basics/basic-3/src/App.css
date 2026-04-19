@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+}
+
+
+
+.country{
+
+  border:1px solid red;
+  width:350px;
+  padding: 20px;
+  margin: 20px;
+}
+
+
+.countries{
+
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr)
+}
+
+
+.country-vistied{
+  
+}

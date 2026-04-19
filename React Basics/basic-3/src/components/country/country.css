@@ -1,0 +1,15 @@
+
+
+.country-vistied{
+
+    background-color: rgb(207, 6, 6);
+}
+
+
+.btn-not-visited{
+    background-color: rgb(14, 6, 122);
+}
+
+.btn-vistied{
+    background-color: rgb(163, 165, 42);
+}

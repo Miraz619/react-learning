@@ -1,0 +1,19 @@
+
+
+.vistited-flags-container{
+    display: flex;
+    gap: 19px;
+    justify-content: space-between;
+}
+
+
+
+.vistited-flags-container img{
+
+
+   
+    width: 150px;
+    height: 100px;
+    gap: 7px;
+  
+}

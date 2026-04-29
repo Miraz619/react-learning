@@ -4,7 +4,7 @@ A simple **Book Store application** built with React Router v7 to learn routing,
 
 ## 🔗 Live Demo
 
-**[View Live](https://app.netlify.com/projects/bookverse32/overview)**
+**[View Live](https://bookverse32.netlify.app/)**
 
 ## ✨ Features
 
